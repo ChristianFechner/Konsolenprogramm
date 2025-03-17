@@ -34,5 +34,8 @@ void main() {
 
 //Ausgabe der Summe
     print('Es sind $sum Kilometer');
+
+  }else {
+    print('Ungültige Eingabe! Bitte gib 1, 2 oder 3 ein.');
   }
-   
+}
