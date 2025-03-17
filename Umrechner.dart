@@ -36,6 +36,6 @@ void main() {
     print('Es sind $sum Kilometer');
 
   }else {
-    print('Ungültige Eingabe! Bitte gib 1, 2 oder 3 ein.');
+    print('Ungültige Eingabe! Bitte gib 1 oder 2 ein.');
   }
 }
